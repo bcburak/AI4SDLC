@@ -545,8 +545,8 @@ Reasonable as a single Saturday project, or two weekday-evening sessions (Phases
 
 ### Progress
 
-- [ ] Phase 0 — Bootstrap
-- [ ] Phase 1 — Data model + scanners
+- [x] Phase 0 — Bootstrap
+- [x] Phase 1 — Data model + scanners
 - [ ] Phase 2 — Agent skeleton
 - [ ] Phase 3 — LLM node
 - [ ] Phase 4 — Comments + observability
